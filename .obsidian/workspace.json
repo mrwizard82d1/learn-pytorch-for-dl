@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "5d1ec9e529c6772d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c44ee6442d7fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "938a4e24f7c5327b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - PyTorch Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2f86fe986368d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a8961e5ab8d6c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e43049e42aad8ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0057f29849e8d427",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20a966be011a2594",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9938ab0b9a628936",
+    "type": "split",
+    "children": [
+      {
+        "id": "05b97a8a89194db1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e6e1ee231e987c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - PyTorch Fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3afd29d180e2f45b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - PyTorch Fundamentals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a06c1e298543611",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83322bbc6a87015a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - PyTorch Fundamentals.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "938a4e24f7c5327b",
+  "lastOpenFiles": [
+    "Reshaping, Viewing and Stacking Tensors.md",
+    "00-pytorch-fundamentals-video.ipynb",
+    "Untitled.ipynb",
+    "00 - PyTorch Fundamentals.md",
+    "Finding the Positional Min and Max of Tensors.md",
+    "actual_env.yaml",
+    "environment.yaml",
+    "Tensor Aggregation.md",
+    "Matrix Multiplication.md",
+    "LearnPyTorchForDL.md",
+    "Creating Random Tensors.md",
+    "torch.[tensor.md",
+    "Getting Tensor Attributes.md",
+    "Tensor datatypes.md",
+    "Tensor Range and Tensors Like Another Tensor.md",
+    "Creating Tensors With Zeros and Ones.md",
+    "PyTorch Naming Conventions.md"
+  ]
+}
